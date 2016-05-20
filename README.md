@@ -15,4 +15,5 @@ Read more at http://gtushar.co :smiley:
 
 ######Difficulty: Super Easy
 - [x] Create a branch with name as `<username>/wip` in this repository.
-- [ ] Read about markdowns.
+- [x] Read about markdowns.
+forgot to check this XD
