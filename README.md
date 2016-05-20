@@ -14,5 +14,5 @@ Read more at http://gtushar.co :smiley:
 #### Category : Git
 
 ######Difficulty: Super Easy
-- [ ] Create a branch with name as `<username>/wip` in this repository.
+- [x] Create a branch with name as `<username>/wip` in this repository.
 - [ ] Read about markdowns.
