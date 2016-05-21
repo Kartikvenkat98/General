@@ -12,6 +12,7 @@ Read more at http://gtushar.co :smiley:
 ### Task 1
 
 #### Category : Git
+You may learn about Git from [Atlassian](https://www.atlassian.com/git/tutorials/)
 
 ######Difficulty: Super Easy
 - [ ] Create a branch with name as `<username>/wip` in this repository.
